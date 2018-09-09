@@ -10,3 +10,8 @@ h1 {
   Color: white;
   text-align: center;
 }
+
+.download_link a {
+  Color: aquamarine;
+  font-size: 16px;
+}
