@@ -30,3 +30,7 @@ h3 {
   color: gray;
   text-align: center;
 }
+
+.copyright h3 {
+  text-align: right;
+}
